@@ -2,7 +2,7 @@
  
 A collection of recent papers on text-image Self-supervised Learning.
 
-## Baseline Method
+## Baseline Methods
 - [Masked Autoencoders Are Scalable Vision Learners (MAE)](https://arxiv.org/pdf/2111.06377.pdf)
 - [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/pdf/2103.00020.pdf)
 - [Zero-Shot Text-to-Image Generation (DALLE)](https://arxiv.org/abs/2102.12092.pdf)
