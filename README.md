@@ -17,5 +17,6 @@ A collection of recent papers on text-image Self-supervised Learning.
 
 
 ## Dataset:
-- Flicker300
-- MSCOCO
+- [Flicker30k](https://shannon.cs.illinois.edu/DenotationGraph/)
+- [MSCOCO](https://cocodataset.org/#home)
+- [LAION-300M](https://arxiv.org/pdf/2111.02114.pdf)
