@@ -14,6 +14,7 @@ A collection of recent papers on text-image Self-supervised Learning.
 - [MulT: An End-to-End Multitask Learning Transformer](https://arxiv.org/pdf/2205.08303.pdf)
 - [MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/pdf/2204.01678.pdf)
 - [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/pdf/2107.06383.pdf)
+- [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334.pdf)
 
 
 ## Dataset:
