@@ -1,6 +1,6 @@
 # Text-Image-SSL
  
-A collection of recent papers on text-image Self-supervised Learning.
+A collection of recent papers on Text-Image Self-supervised Learning.
 
 ## Baseline Methods
 - [Masked Autoencoders Are Scalable Vision Learners (MAE)](https://arxiv.org/pdf/2111.06377.pdf)
