@@ -15,6 +15,7 @@ A collection of recent papers on text-image Self-supervised Learning.
 - [MultiMAE: Multi-modal Multi-task Masked Autoencoders](https://arxiv.org/pdf/2204.01678.pdf)
 - [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/pdf/2107.06383.pdf)
 - [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334.pdf)
+- [mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections](https://arxiv.org/pdf/2205.12005.pdf)
 
 
 ## Dataset:
