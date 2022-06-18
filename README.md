@@ -23,4 +23,4 @@ A collection of recent papers on Text-Image Self-supervised Learning.
 - [Flicker30k](https://shannon.cs.illinois.edu/DenotationGraph/)
 - [MSCOCO](https://cocodataset.org/#home)
 - [CC12M](https://github.com/google-research-datasets/conceptual-12m)
-- [LAION-300M](https://arxiv.org/pdf/2111.02114.pdf)
+- [LAION-400M](https://arxiv.org/pdf/2111.02114.pdf)
