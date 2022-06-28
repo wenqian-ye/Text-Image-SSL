@@ -9,7 +9,7 @@ A collection of recent papers on Text-Image Self-supervised Learning.
 - [Hierarchical Text-Conditional Image Generation with CLIP Latents (DALLE2)](https://arxiv.org/pdf/2204.06125.pdf)
 
 ## Related Works
-- [Multimodal Masked Autoencoders Learn Transferable Representations](https://arxiv.org/pdf/2205.14204.pdf)
+- [M3AE: Multimodal Masked Autoencoders Learn Transferable Representations](https://arxiv.org/pdf/2205.14204.pdf)
 - [Training Vision-Language Transformers from Captions Alone](https://arxiv.org/pdf/2205.09256.pdf)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/pdf/2111.02387.pdf)
 - [MulT: An End-to-End Multitask Learning Transformer](https://arxiv.org/pdf/2205.08303.pdf)
