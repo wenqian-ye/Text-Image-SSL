@@ -18,6 +18,7 @@ A collection of recent papers on Text-Image Self-supervised Learning.
 - [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334.pdf)
 - [mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections](https://arxiv.org/pdf/2205.12005.pdf)
 - [VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training](https://arxiv.org/pdf/2203.12602.pdf)
+- [SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/pdf/2106.03331.pdf)
 
 
 ## Dataset:
