@@ -19,7 +19,7 @@ A collection of recent papers on Text-Image Self-supervised Learning.
 - [mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections](https://arxiv.org/pdf/2205.12005.pdf)
 - [VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training](https://arxiv.org/pdf/2203.12602.pdf)
 - [SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/pdf/2106.03331.pdf)
-
+- [L-Verse: Bidirectional Generation Between Image and Text][https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_L-Verse_Bidirectional_Generation_Between_Image_and_Text_CVPR_2022_paper.pdf]
 
 ## Dataset:
 - [Flicker30k](https://shannon.cs.illinois.edu/DenotationGraph/)
